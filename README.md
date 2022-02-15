@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ocTrung
-- 👀 I’m interested in Software Development, Web Development
-- 🌱 I’m currently learning JavaScript, Vue, Node 
+- 👀 I’m interested in Web Development, Software Development
+- 🌱 I’m currently learning JavaScript, React 
 - 📫 Reach me at t.nguyenvo@eagles.oc.edu
 
 <!---
