@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ocTrung
+- 👋 Hi, I’m Trung Nguyenvo.
 - 👀 I’m interested in Web Development, Software Development
 - 🌱 I’m currently learning JavaScript, React 
 - 📫 Reach me at t.nguyenvo@eagles.oc.edu
