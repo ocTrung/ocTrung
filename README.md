@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Trung Nguyenvo.
 - 👀 I’m interested in Web Development, Software Development
-- 🌱 I’m currently learning JavaScript, React 
+- 🌱 I’m currently learning JavaScript, React, Tailwind CSS
 - 📫 Reach me at t.nguyenvo@eagles.oc.edu
 
 <!---
